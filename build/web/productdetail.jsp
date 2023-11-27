@@ -233,7 +233,6 @@
         <script src="./assets/js/app.js"></script>         
         <script>
             function changeImage(clickedImage, imageIndex) {
-                debugger
                 // Lấy src của ảnh được click
                 var newSrc = clickedImage.src;
 
